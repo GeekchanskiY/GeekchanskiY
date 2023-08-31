@@ -6,7 +6,7 @@ Mostly work with python backend and scripting. Also know JS and TS,
 and do some frontend stuff. 
 
 **Reject humanity, become monke!**
- <img alt='monke' scr='https://github.com/GeekchanskiY/GeekchanskiY/blob/1cbf6c2dd7a87b29c31b807090a20c14acbc5fb0/monke.gif'/>
+ ![mpnke](monke.gif)
 
 # Tech stack:
 

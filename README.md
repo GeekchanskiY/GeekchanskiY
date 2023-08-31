@@ -1,70 +1,42 @@
-# Python developer
+# Software Engineer
 
-Dev since may 2018
+Dev since may 2018.
+
+Mostly work with python backend and scripting. Also know JS and TS,
+and do some frontend stuff. 
+
+**Reject humanity, become monke!**
+
 
 # Tech stack:
 
   ## Python:
-    - Django + DRF
-    - FastAPI
-    - Flask
-    - SQLAlchemy
-    - Pydantic
-    - Marshmallow
-    - Alembic
-    - Celery + celery beat
+    Django, Django Rest Framework, Django CMS, FastAPI, Flask, SQLAlchemy,
+    Pydantic, Marshmallow, Alembic, Celery, Celery beat, Numpy, Pandas,
+    boto3, requests, aiohttp, BeautifulSoup, Selenium, Tesseract, OpenCV,
+    firebase-admin, azure, openpyxl, xlsxwriter
+    
   
   ## JavaScript/TypeScript:
-    - React
-    - Redux
+    React, React Native, Redux, Angular, Vue, Knockout, jQuery, Webpack,
+    Jest
 
   ## DevOps:
-    - Bash
-    - Docker + docker-compose
-    - Kibana
-    - Jenkins
-    - Kubernetes (k8s)
+    Bash, Docker, docker-compose, Kibana, Jenkins, Kubernetes (k8s),
+    cloud, git
 
   ## Databases:
-    - PostgreSQL
-    - MySQL
-    - GraphQL
-    - MongoDB
-    - DynamoDB
-    - CosmosDB
-    - Redis
+    PostgreSQL, MySQL, GraphQL, MongoDB, DynamoDB, CosmosDB, Redis
 
   ## Message Brokers:
-    - Kafka
-    - RabbitMQ
+    Apache Kafka, RabbitMQ, Amazon SQS
   
   ## Cloud:
     AWS:
-      - Lambda
-      - EC2
-      - S3
-      - EKS
-      - ECS
-      - SES
-      - DynamoDB
-      - API Gateway
-      - RDS
-      - SNS
-      - SQS
-      - Cognito
-      - CloudWatch
-      - etc.
+      Lambda, EC2, S3, EKS, ECS, SES, DynamoDB, API Gateway, RDS, SNS,
+      SQS, Cognito, CloudWatch, etc.
     Azure:
-      - DevOps
-      - SQL
-      - Blob Storage
-      - Virtual Machine
-      - Functions
-      - CosmosDB
+      DevOps, SQL, Blob Storage, Virtual Machine, Functions, CosmosDB
+    Firebase:
+      Firestore Database, Storage, Hosting, Functions
     
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GeekchanskiY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GeekchanskiY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekchanskiY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

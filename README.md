@@ -6,6 +6,8 @@ Mostly work with python backend and scripting. Also know JS and TS,
 and do some frontend stuff. 
 
 **Reject humanity, become monke!**
+
+
  ![mpnke](monke.gif)
 
 # Tech stack:

@@ -2,8 +2,11 @@
 
 Dev since may 2018.
 
-Mostly work with python backend and scripting. Also know JS and TS,
-and do some frontend stuff. 
+Full-Stack developer
+Backend: python
+Frontend: js/ts
+
+Open for collaborations
 
 **Reject humanity, become monke!**
 

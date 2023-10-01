@@ -1,12 +1,18 @@
 # Software Engineer
 
-Dev since may 2018.
+Dev since may 2018. 
 
 Full-Stack developer
+
 Backend: python
+
 Frontend: js/ts
 
-Open for collaborations
+
+
+**Open for collaborations**
+
+
 
 **Reject humanity, become monke!**
 

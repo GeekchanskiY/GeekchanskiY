@@ -4,11 +4,6 @@ Dev since may 2018.
 
 Full-Stack developer
 
-Backend: python
-
-Frontend: js/ts
-
-
 
 **Open for collaborations**
 

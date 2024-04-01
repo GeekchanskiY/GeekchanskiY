@@ -1,9 +1,5 @@
 # Software Engineer
 
-Dev since may 2018. 
-
-Full-Stack developer
-
 
 **Open for collaborations**
 

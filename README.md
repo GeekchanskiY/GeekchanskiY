@@ -1,13 +1,16 @@
 # Software Engineer
 
+Golang/python/javascript full-stack developer
+Currently working at Betera team
 
-**Open for collaborations**
+Current activities:
+ - writing my theory database in obsidian
+ - solutions and developers
+ - writing some go modules for own usage
 
-
+**Open for collaborations**, if you have your great idea, and found my profile somehow - you can always reach me using social links in the profile. I'd always be great to create something new!
 
 **Reject humanity, become monke!**
-
-
  ![mpnke](monke.gif)
 
     

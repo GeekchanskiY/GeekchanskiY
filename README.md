@@ -11,6 +11,7 @@ Current activities:
 **Open for collaborations**, if you have your great idea, and found my profile somehow - you can always reach me using social links in the profile. I'd always be great to create something new!
 
 **Reject humanity, become monke!**
+
  ![mpnke](monke.gif)
 
     

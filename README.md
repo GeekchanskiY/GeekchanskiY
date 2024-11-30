@@ -1,6 +1,7 @@
 # Software Engineer
 
 Golang/python/javascript full-stack developer
+
 Currently working at Betera team
 
 Current activities:

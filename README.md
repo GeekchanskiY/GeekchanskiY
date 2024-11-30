@@ -9,7 +9,7 @@ Current activities:
  - solutions and developers
  - writing some go modules for own usage
 
-**Open for collaborations**, if you have your great idea, and found my profile somehow - you can always reach me using social links in the profile. I'd always be great to create something new!
+**Open for collaborations**. If you have your great idea - you can always reach me using social links in the profile. I'd always be great to create something new!
 
 **Reject humanity, become monke!**
 
